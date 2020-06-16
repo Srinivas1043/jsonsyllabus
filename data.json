@@ -1,0 +1,189 @@
+[
+  {
+    "State": "Tamil Nadu",
+    "Syllabus": [
+      {
+        "SyllabusName": "CBSE",
+        "SubjectDetails": [
+          "English",
+          "Maths",
+          "Physics",
+          "Biology",
+          "Chemistry",
+          "Tamil",
+          "Social Science"
+        ],
+        "ClassDetails": [
+          {
+            "classname": "LKG",
+            "Subjects": [
+              "English",
+              "Maths",
+              "Physics",
+              "Biology",
+              "Chemistry",
+              "Tamil",
+              "Social Science"
+            ]
+          },
+          {
+            "classname": "UKG",
+            "Subjects": [
+              "English",
+              "Maths",
+              "Physics",
+              "Biology",
+              "Chemistry",
+              "Tamil",
+              "Social Science"
+            ]
+          },
+          {
+            "classname": "I",
+            "Subjects": [
+              "English",
+              "Maths",
+              "Physics",
+              "Biology",
+              "Chemistry",
+              "Tamil",
+              "Social Science"
+            ]
+          },
+          {
+            "classname": "II",
+            "Subjects": [
+              "English",
+              "Maths",
+              "Physics",
+              "Biology",
+              "Chemistry",
+              "Tamil",
+              "Social Science"
+            ]
+          },
+          {
+            "classname": "III",
+            "Subjects": [
+              "English",
+              "Maths",
+              "Physics",
+              "Biology",
+              "Chemistry",
+              "Tamil",
+              "Social Science"
+            ]
+          },
+          {
+            "classname": "IV",
+            "Subjects": [
+              "English",
+              "Maths",
+              "Physics",
+              "Biology",
+              "Chemistry",
+              "Tamil",
+              "Social Science"
+            ]
+          },
+          {
+            "classname": "V",
+            "Subjects": [
+              "English",
+              "Maths",
+              "Physics",
+              "Biology",
+              "Chemistry",
+              "Tamil",
+              "Social Science"
+            ]
+          },
+          {
+            "classname": "VI",
+            "Subjects": [
+              "English",
+              "Maths",
+              "Physics",
+              "Biology",
+              "Chemistry",
+              "Tamil",
+              "Social Science"
+            ]
+          },
+          {
+            "classname": "VII",
+            "Subjects": [
+              "English",
+              "Maths",
+              "Physics",
+              "Biology",
+              "Chemistry",
+              "Tamil",
+              "Social Science"
+            ]
+          },
+          {
+            "classname": "VIII",
+            "Subjects": [
+              "English",
+              "Maths",
+              "Physics",
+              "Biology",
+              "Chemistry",
+              "Tamil",
+              "Social Science"
+            ]
+          },
+          {
+            "classname": "IX",
+            "Subjects": [
+              "English",
+              "Maths",
+              "Physics",
+              "Biology",
+              "Chemistry",
+              "Tamil",
+              "Social Science"
+            ]
+          },
+          {
+            "classname": "X",
+            "Subjects": [
+              "English",
+              "Maths",
+              "Physics",
+              "Biology",
+              "Chemistry",
+              "Tamil",
+              "Social Science"
+            ]
+          },
+          {
+            "classname": "XI",
+            "Subjects": [
+              "English",
+              "Maths",
+              "Physics",
+              "Biology",
+              "Chemistry",
+              "Tamil",
+              "Social Science"
+            ]
+          },
+          {
+            "classname": "XII",
+            "Subjects": [
+              "English",
+              "Maths",
+              "Physics",
+              "Biology",
+              "Chemistry",
+              "Tamil",
+              "Social Science"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
